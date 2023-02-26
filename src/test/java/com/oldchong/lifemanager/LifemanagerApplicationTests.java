@@ -1,0 +1,13 @@
+package com.oldchong.lifemanager;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class LifemanagerApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
